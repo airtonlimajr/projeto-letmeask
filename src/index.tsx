@@ -9,7 +9,7 @@ import './styles/global.scss';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <Button text="Botão 1"/>
+    <Button />
     
   </React.StrictMode>,
   document.getElementById('root')
